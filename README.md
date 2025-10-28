@@ -126,9 +126,3 @@
 </details>
 
 ---
-
-## **구현 홈페이지**
-
-[🪧2팀 모두의 플리 구현 홈페이지 바로가기](http://deokhugam-lb-2028882801.ap-northeast-2.elb.amazonaws.com/)
-
----
