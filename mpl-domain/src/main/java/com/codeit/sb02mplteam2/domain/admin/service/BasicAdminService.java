@@ -50,6 +50,9 @@ public class BasicAdminService implements AdminService {
         adminId // 이벤트 발생시킨 사람, 관리자
     ));
 
+    // Role update된 user, userId 로 token 무효화 시키기
+    jwtService.invalidateJwtSession(userId);
+
     return userMapper.toDto(user);
   }
 

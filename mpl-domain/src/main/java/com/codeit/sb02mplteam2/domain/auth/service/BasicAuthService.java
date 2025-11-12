@@ -75,12 +75,7 @@ public class BasicAuthService implements AuthService {
         .orElseThrow(() -> new MplException(ErrorCode.USER_NOT_FOUND));
 
     // 해당 사용자에게 이미 발급된 토큰이 있다면 삭제하여 이전 요청 무효화
-    passwordResetTokenRepository.findByUserId(user.getId())
-        .ifPresent(token -> {
-          passwordResetTokenRepository.delete(token);
-          passwordResetTokenRepository.flush();
-          log.info("기존 토큰 삭제 userId={}", user.getId());
-        });
+    passwordResetTokenRepository.deleteAllByUserId(user.getId());
 
     // 토큰 생성(JWT 아님 그냥 UUID)
     String token = UUID.randomUUID().toString();
