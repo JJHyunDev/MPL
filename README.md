@@ -7,7 +7,7 @@
 # **2팀**
 
 [🪧팀 회의 노션 페이지 바로가기](https://steadfast-fact-5a0.notion.site/2-23e57ba831b3809389a8ff6115d40007?source=copy_link)   
-[🪧깃허브 레포지토리 바로가기](https://github.com/sb02-MPL-team2/sb02-mpl-team2)
+[🪧깃허브 레포지토리 바로가기](https://github.com/sb02-MPL-team2/sb02-mpl-team2)<br>
 [🪧발표자료 PPT 바로가기](https://drive.google.com/file/d/1SmqhB5gbdGAv4SKdXSI9ATNeWfo7HF8J/view?usp=sharing)
 
 ## **팀원 구성**
