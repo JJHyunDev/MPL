@@ -30,7 +30,7 @@
 
 - Backend: Spring Boot, Spring Security, Spring Data JPA
 - Database: PostgreSQL
-- 공통 Tool: Git & Github, Discord, Notion
+- 공통 Tool: Git & Github, Jira, Discord, Notion
 
 ---
 
