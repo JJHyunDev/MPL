@@ -8,6 +8,7 @@
 
 [🪧팀 회의 노션 페이지 바로가기](https://steadfast-fact-5a0.notion.site/2-23e57ba831b3809389a8ff6115d40007?source=copy_link)   
 [🪧깃허브 레포지토리 바로가기](https://github.com/sb02-MPL-team2/sb02-mpl-team2)
+[🪧발표자료 PPT 바로가기](https://drive.google.com/file/d/1SmqhB5gbdGAv4SKdXSI9ATNeWfo7HF8J/view?usp=sharing)
 
 ## **팀원 구성**
 
@@ -22,6 +23,7 @@
 ## **프로젝트 소개**
 
 - 다양한 외부 콘텐츠(TMDB, SportDB)를 플레이리스트에 담으면서 실시간 소셜 기능(공유, 채팅, DM, 팔로우)을 제공하는 모두의 플리
+- 소셜 로그인 기능과 어드민 기능으로 유저 잠금, 유저 역할 변경 기능 포함
 - 프로젝트 기간: 2025.7.28 ~ 2025.08.30
 
 ---
